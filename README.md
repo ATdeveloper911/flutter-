@@ -47,5 +47,20 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 * **Key Tech**: REST API Integration, Flutter Bloc/Provider.
 
 ---
+## 🛠️ Flutter Engineering Standards
+
+* **State Management Architecture**: Clean separation of concerns using professional patterns (Provider/Bloc) for scalable codebases.
+* **Institutional Security**: Leveraging **Supabase Row Level Security (RLS)** to protect sensitive user and organizational data.
+* **Performance Optimization**: Achieving 60fps through efficient widget tree rebuilding and asynchronous data handling.
+
+---
+
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
+
+---
 
 
