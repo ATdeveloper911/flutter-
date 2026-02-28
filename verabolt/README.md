@@ -41,6 +41,89 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 * **Hardware Fingerprinting:** Every license is locked to a specific device ID, visible only to the Admin.
 
 ---
+## 📱 App Screenshots
+
+<div align="center">
+
+### 🔐 Authentication Journey
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Splash Screen</b><br>
+      <img src="https://github.com/user-attachments/assets/8ec5ab6e-23e4-4c8c-9eca-e94782317941" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Login</b><br>
+      <img src="https://github.com/user-attachments/assets/09c6a46f-19a8-42ef-93d5-588cea8a7d90" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Sign Up</b><br>
+      <img src="https://github.com/user-attachments/assets/50a84ddc-448e-4228-8f7c-f74cf99b70ff" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br>
+      <sub>✨ Beautiful, intuitive authentication flow designed for the best user experience ✨</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+-----
+   free user dashboard:
+         user dashboard:
+         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/056a1029-7618-4812-a349-ff967fe96ac2" />
+         why go pro:
+         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e832588f-508b-4345-b8ca-0216a4401da0" />
+        profile setting;
+         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0e74041-13e9-4b7d-be5e-67c062acae0e" />
+        analytics:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/cc8520b7-f85b-41cd-b953-d4ef04b205d7" />
+        request access to admin:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/006bb7c0-04b4-41c0-b871-c7a7b09be312" />
+        waiting for approval:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/2579509e-330d-4692-9e1f-8dc5527ef5a6" />
+        activation licenese:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/39056d06-9470-4772-bace-e5a23fcb56e1" />
+
+   pro useer dashboard:
+        user dashborad:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d" />
+        pro workspace:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b" />
+        item details:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbeec408-c562-4339-9a0b-bb3b4f4f7344" />
+        exports:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/62832767-8470-45c5-9e75-68682609ae38" />
+        analytics:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/359d508c-ccc0-4b2b-847a-51c0cd88aa72" />
+        backup & restore:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/de52f3d4-27b3-406c-8585-bdc570edab4c" />
+
+   admin dashboard:
+        inventory control:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/38be7046-6138-48d0-957d-936540ccbe3e" />
+        license status:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/c9994cdd-3172-459a-9577-ee958483e6b6" />
+        pending request:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/9a81036c-3289-4d3c-90ae-80e1b2ae15c6" />
+        assign license to devices:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/4e341850-94f1-48f9-b949-ece59aef796a" />
+        generate bulk license:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5ef1fc1-5916-4c12-8447-a4a710aa639d" />
+        admin analytics 1 :
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/f07e9c0c-35f1-4882-8e34-918004d3ce5d" />
+        admin analytics 2:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/b90879c2-5582-4887-bdf9-ea842a195ab1" />
+        operattions:
+        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/8bb0e678-172b-4bc3-ae3c-97632f230d1f" />
+
+
+
+
+
 
 ## 🚀 Pro Features at a Glance
 
