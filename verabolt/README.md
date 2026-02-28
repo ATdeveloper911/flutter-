@@ -126,7 +126,6 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 
 </div>
 
-## 📱 App Screenshots
 
 <div align="center">
 
@@ -176,26 +175,63 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 
 </div>
 
-   admin dashboard:
-        inventory control:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/38be7046-6138-48d0-957d-936540ccbe3e" />
-        license status:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/c9994cdd-3172-459a-9577-ee958483e6b6" />
-        pending request:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/9a81036c-3289-4d3c-90ae-80e1b2ae15c6" />
-        assign license to devices:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/4e341850-94f1-48f9-b949-ece59aef796a" />
-        generate bulk license:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e5ef1fc1-5916-4c12-8447-a4a710aa639d" />
-        admin analytics 1 :
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/f07e9c0c-35f1-4882-8e34-918004d3ce5d" />
-        admin analytics 2:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/b90879c2-5582-4887-bdf9-ea842a195ab1" />
-        operattions:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/8bb0e678-172b-4bc3-ae3c-97632f230d1f" />
 
 
+<div align="center">
 
+### 👑 Admin Dashboard Control Center
+
+**License Management**
+<table>
+  <tr>
+    <td align="center">
+      <b>Inventory Control</b><br>
+      <img src="https://github.com/user-attachments/assets/38be7046-6138-48d0-957d-936540ccbe3e" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>License Status</b><br>
+      <img src="https://github.com/user-attachments/assets/c9994cdd-3172-459a-9577-ee958483e6b6" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>Pending Requests</b><br>
+      <img src="https://github.com/user-attachments/assets/9a81036c-3289-4d3c-90ae-80e1b2ae15c6" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>Assign License to Devices</b><br>
+      <img src="https://github.com/user-attachments/assets/4e341850-94f1-48f9-b949-ece59aef796a" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+  </tr>
+</table>
+
+**Bulk Operations & Analytics**
+<table>
+  <tr>
+    <td align="center">
+      <b>Generate Bulk License</b><br>
+      <img src="https://github.com/user-attachments/assets/e5ef1fc1-5916-4c12-8447-a4a710aa639d" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>Analytics Overview</b><br>
+      <img src="https://github.com/user-attachments/assets/f07e9c0c-35f1-4882-8e34-918004d3ce5d" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>Advanced Analytics</b><br>
+      <img src="https://github.com/user-attachments/assets/b90879c2-5582-4887-bdf9-ea842a195ab1" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+    <td align="center">
+      <b>System Operations</b><br>
+      <img src="https://github.com/user-attachments/assets/8bb0e678-172b-4bc3-ae3c-97632f230d1f" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br>
+      <sub>✨ Full administrative suite for complete platform control ✨</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
