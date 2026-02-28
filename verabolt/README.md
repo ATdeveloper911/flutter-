@@ -7,6 +7,9 @@
 
 ---
 
+[![Flutter](https://img.shields.io/badge/Flutter-3.24+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Supabase](https://img.shields.io/badge/Supabase-Realtime_&_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) [![Isar](https://img.shields.io/badge/Isar-Offline_NoSQL-4051B5?style=for-the-badge)](https://isar.dev/) [![Status](https://img.shields.io/badge/App_Completion-100%25-brightgreen?style=for-the-badge)](https://github.com/)
+
+
 ## 🚩 The Problem
 
 Most professional tools break the moment you lose internet connection. Users face:
@@ -58,5 +61,11 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 1. **Work Anywhere:** From airplanes to underground vaults, your data stays with you.
 2. **Total Control:** Manage your license fleet with surgical precision from the Admin panel.
 3. **Future-Proof:** Scalable architecture ready to handle thousands of users and millions of sync operations.
+
+---
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
 
 ---
