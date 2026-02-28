@@ -9,7 +9,21 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.24+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Supabase](https://img.shields.io/badge/Supabase-Realtime_&_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) [![Isar](https://img.shields.io/badge/Isar-Offline_NoSQL-4051B5?style=for-the-badge)](https://isar.dev/) [![Status](https://img.shields.io/badge/App_Completion-100%25-brightgreen?style=for-the-badge)](https://github.com/)
 
+---
 
+## 🎥 Live Demo
+
+<div align="center">
+
+### 🚀 Watch the Full Application Walkthrough
+
+[![Finance Tracker Demo Video](https://img.shields.io/badge/🎬_Watch_Full_Demo-Video_Guide-FF6B6B?style=for-the-badge&logo=video&logoColor=white)](https://drive.google.com/file/d/1SlA0Y4RJyh7AfTunCIGr9hnxXE6yOl77/view?usp=sharing)
+
+*Click the button above to watch the complete demo video on Google Drive*
+
+</div>
+
+----
 ## 🚩 The Problem
 
 Most professional tools break the moment you lose internet connection. Users face:
