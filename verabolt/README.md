@@ -72,21 +72,61 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 
 </div>
 -----
-   free user dashboard:
-         user dashboard:
-         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/056a1029-7618-4812-a349-ff967fe96ac2" />
-         why go pro:
-         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e832588f-508b-4345-b8ca-0216a4401da0" />
-        profile setting;
-         <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0e74041-13e9-4b7d-be5e-67c062acae0e" />
-        analytics:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/cc8520b7-f85b-41cd-b953-d4ef04b205d7" />
-        request access to admin:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/006bb7c0-04b4-41c0-b871-c7a7b09be312" />
-        waiting for approval:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/2579509e-330d-4692-9e1f-8dc5527ef5a6" />
-        activation licenese:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/39056d06-9470-4772-bace-e5a23fcb56e1" />
+
+
+<div align="center">
+
+### 👤 Free User Dashboard Journey
+
+**Core Dashboard Features**
+<table>
+  <tr>
+    <td align="center">
+      <b>User Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/056a1029-7618-4812-a349-ff967fe96ac2" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Why Go Pro</b><br>
+      <img src="https://github.com/user-attachments/assets/e832588f-508b-4345-b8ca-0216a4401da0" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Profile Settings</b><br>
+      <img src="https://github.com/user-attachments/assets/a0e74041-13e9-4b7d-be5e-67c062acae0e" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Analytics</b><br>
+      <img src="https://github.com/user-attachments/assets/cc8520b7-f85b-41cd-b953-d4ef04b205d7" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
+
+**Upgrade & Activation Flow**
+<table>
+  <tr>
+    <td align="center">
+      <b>Request Admin Access</b><br>
+      <img src="https://github.com/user-attachments/assets/006bb7c0-04b4-41c0-b871-c7a7b09be312" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Waiting for Approval</b><br>
+      <img src="https://github.com/user-attachments/assets/2579509e-330d-4692-9e1f-8dc5527ef5a6" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Activation License</b><br>
+      <img src="https://github.com/user-attachments/assets/39056d06-9470-4772-bace-e5a23fcb56e1" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <br>
+      <sub>✨ Complete free user journey - from dashboard features to pro upgrade ✨</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+---
 
    pro useer dashboard:
         user dashborad:
