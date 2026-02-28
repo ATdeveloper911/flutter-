@@ -71,7 +71,6 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 </table>
 
 </div>
------
 
 
 <div align="center">
@@ -126,21 +125,56 @@ We solved these "madness" issues by engineering a **Resilient Ecosystem**:
 </table>
 
 </div>
----
 
-   pro useer dashboard:
-        user dashborad:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d" />
-        pro workspace:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b" />
-        item details:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbeec408-c562-4339-9a0b-bb3b4f4f7344" />
-        exports:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/62832767-8470-45c5-9e75-68682609ae38" />
-        analytics:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/359d508c-ccc0-4b2b-847a-51c0cd88aa72" />
-        backup & restore:
-        <img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/de52f3d4-27b3-406c-8585-bdc570edab4c" />
+## 📱 App Screenshots
+
+<div align="center">
+
+### ⭐ Pro User Dashboard Experience
+
+**Core Pro Features**
+<table>
+  <tr>
+    <td align="center">
+      <b>User Dashboard</b><br>
+      <img src="https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Pro Workspace</b><br>
+      <img src="https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Item Details</b><br>
+      <img src="https://github.com/user-attachments/assets/cbeec408-c562-4339-9a0b-bb3b4f4f7344" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
+
+**Advanced Tools**
+<table>
+  <tr>
+    <td align="center">
+      <b>Exports</b><br>
+      <img src="https://github.com/user-attachments/assets/62832767-8470-45c5-9e75-68682609ae38" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Analytics</b><br>
+      <img src="https://github.com/user-attachments/assets/359d508c-ccc0-4b2b-847a-51c0cd88aa72" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Backup & Restore</b><br>
+      <img src="https://github.com/user-attachments/assets/de52f3d4-27b3-406c-8585-bdc570edab4c" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <br>
+      <sub>✨ Unlock the full potential with premium features ✨</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
    admin dashboard:
         inventory control:
