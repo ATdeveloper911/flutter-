@@ -333,19 +333,6 @@ You can watch a demo of the system in action via the link below:
 ---
 
 
-## 📦 Download APK File
-
-You can download the latest version of the APK from the link below:
-
-🔗 [Download APK](https://drive.google.com/file/d/1BOcJWt5Ofu2pcsiYrmFmGIrsLc3QmuN9/view?usp=sharing)
-
-> 📁 *Hosted on Google Drive – make sure you're signed in to access the file.*
-
-
-
----
-
-
 
 
 
