@@ -110,3 +110,11 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 - Built with ❤️ by **Asadullah (FA22-BSE-037)**
 - Powered by Flutter, News API, and Lottie animations
 
+---
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
+
+---
+
