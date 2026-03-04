@@ -187,7 +187,14 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 
 
 
+---
+---
+## 📫 Connect with the Architect
 
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Status**: `SYSTEMS_OPERATIONAL` 🟢
+
+---
 
 
 
