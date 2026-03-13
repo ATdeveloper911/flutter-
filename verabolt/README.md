@@ -10,6 +10,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.24+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Supabase](https://img.shields.io/badge/Supabase-Realtime_&_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/) [![Isar](https://img.shields.io/badge/Isar-Offline_NoSQL-4051B5?style=for-the-badge)](https://isar.dev/) [![Status](https://img.shields.io/badge/App_Completion-100%25-brightgreen?style=for-the-badge)](https://github.com/)
 
 ---
+
 ## 🎥 Multimedia Showcases
 
 <div align="center">
@@ -31,6 +32,8 @@
 
 
 ----
+
+
 ## 🚩 The Problem vs. 🛡️ The VeraBolt Solution
 
 Traditional professional tools suffer from **Connectivity Dependency** and **Manual Input Friction**.
@@ -77,6 +80,7 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 * **Capabilities:** Real-time Bet/Fold/Raise advice based on hand strength, M-Ratio, and tournament ICM factors—all running 100% offline.
 
 ---
+
 ## 📱 App Screenshots
 
 <div align="center">
@@ -351,145 +355,3 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 
 
 
-# ⚡ VeraBolt: The Ultra-Secure AI Vision & Pro License Ecosystem
-
-**VeraBolt** is a high-performance, resilient SaaS platform designed for professional license management and real-time **Computer Vision (CV)** orchestration. Originally a secure licensing foundation, it has evolved into a "Professional Workstation" featuring an advanced **100% Offline Poker AI Strategy Engine**.
-
----
-
----
-
-## 🎥 Multimedia Showcases
-
-<div align="center">
-
-### 🎰 New: Poker Vision AI Walkthrough
-
-[](https://drive.google.com/file/d/1ixJDkxeBqo5kljaNYg6o7BAZrPz-1Brv/view?usp=sharing)
-*Watch our 100-epoch YOLOv8 model in action with perspective warping and OCR auto-fill.*
-
-### 🚀 Finance & Licensing Ecosystem
-
-[](https://drive.google.com/file/d/1SlA0Y4RJyh7AfTunCIGr9hnxXE6yOl77/view?usp=sharing)
-*Click the buttons above to watch the complete demo videos on Google Drive.*
-
-</div>
-
----
-
-## 🚩 The Problem vs. 🛡️ The VeraBolt Solution
-
-Traditional professional tools suffer from **Connectivity Dependency** and **Manual Input Friction**.
-
-| The Problem | The VeraBolt Solution |
-| --- | --- |
-| **Data Loss & Latency** | **Offline-First Core:** Every action is committed to a local Isar database instantly. |
-| **Manual Input Errors** | **Phase 3.7 OCR:** Automated "Pot & Stack" reading via on-device ML Kit. |
-| **Rigid Vision Systems** | **Phase 3.5 & 3.6:** Perspective warping and USB/OTG External Camera support. |
-| **Security Gaps** | **Hardware Fingerprinting:** AES-256 encrypted licenses locked to specific Device IDs. |
-
----
-
-## 🏛️ Project Evolution (Technical Phases)
-
-VeraBolt was built in surgical phases to ensure enterprise-grade stability:
-
-### 👁️ Phase 3: Vision Core & 100-Epoch Intelligence
-
-Implemented a custom-trained **YOLOv8** model (11 hours of deep training) identifying 52 card classes.
-
-* **Result:** High-confidence detection running locally via TFLite.
-
-### 📐 Phase 3.5: Warp Perspective & Luxury Overlay
-
-Added **OpenCV-style Matrix Transformations** to correct tilted camera angles (30°-90°).
-
-* **UI:** Introduced "Glassmorphic" floating labels with suit-based glow effects.
-
-### 🔌 Phase 3.6: The "USB Eye" (External Hardware)
-
-Support for **USB/OTG External Cameras**. Users can plug in a "Snake Camera" or webcam to scan laptop screens while keeping the mobile device as a strategic display.
-
-### 🔢 Phase 3.7: Automated OCR Layer
-
-Integrated **Google ML Kit** for real-time Optical Character Recognition.
-
-* **Feature:** Draggable "ROI" zones that auto-fill Pot and Stack sizes from the table into the engine.
-
-### 🧠 Phase 4: GTO Strategy & Offline Brain
-
-The final integration of **Game Theory Optimal (GTO)** logic.
-
-* **Capabilities:** Real-time Bet/Fold/Raise advice based on hand strength, M-Ratio, and tournament ICM factors—all running 100% offline.
-
----
-
-## 📱 Application Journey
-
-<div align="center">
-
-### 🔐 Security & Poker Vision
-
-<table>
-<tr>
-<td align="center"><b>Lock Screen (HWID)</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/39056d06-9470-4772-bace-e5a23fcb56e1](https://github.com/user-attachments/assets/39056d06-9470-4772-bace-e5a23fcb56e1)" width="200"></td>
-<td align="center"><b>Poker Dashboard</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d](https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d)" width="200"></td>
-<td align="center"><b>Real-Time Scan</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b](https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b)" width="200"></td>
-</tr>
-</table>
-
-### 👑 Admin Control Center
-
-<table>
-<tr>
-<td align="center"><b>License Status</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/c9994cdd-3172-459a-9577-ee958483e6b6](https://github.com/user-attachments/assets/c9994cdd-3172-459a-9577-ee958483e6b6)" width="200"></td>
-<td align="center"><b>Assign Devices</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/4e341850-94f1-48f9-b949-ece59aef796a](https://github.com/user-attachments/assets/4e341850-94f1-48f9-b949-ece59aef796a)" width="200"></td>
-<td align="center"><b>Bulk Generation</b>
-
-
-
-<img src="[https://github.com/user-attachments/assets/e5ef1fc1-5916-4c12-8447-a4a710aa639d](https://github.com/user-attachments/assets/e5ef1fc1-5916-4c12-8447-a4a710aa639d)" width="200"></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🛠️ The Advanced Tech Stack
-
-* **Machine Learning:** YOLOv8 (TFLite), Google ML Kit (OCR).
-* **Computer Vision:** Perspective Warp Transformations, YUV420 to RGB conversion isolates.
-* **Frontend:** Flutter (Riverpod State Management).
-* **Security:** AES-256 Encryption, Hardware UUID Mapping, Supabase RLS.
-* **Database:** Isar (Local NoSQL), Supabase (PostgreSQL Cloud).
-
----
-
-
----
-
-## 📫 Connect with the Architect
-
-* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
-* **Status**: `SYSTEMS_OPERATIONAL` 🟢 | `PHASE_4_COMPLETE` 🏆
