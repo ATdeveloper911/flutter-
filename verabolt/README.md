@@ -168,16 +168,15 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 
 
 <div align="center">
-
 ### ⭐ Pro User Dashboard Experience
 
 **Core Pro Features**
 <table>
   <tr>
-   <td align="center">
-  <b>User Dashboard</b><br>
-  <img src="../images/2.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
-</td>
+    <td align="center">
+      <b>User Dashboard</b><br>
+      <img src="../images/2.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
     <td align="center">
       <b>Pro Workspace</b><br>
       <img src="https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
@@ -185,6 +184,25 @@ The final integration of **Game Theory Optimal (GTO)** logic.
     <td align="center">
       <b>Item Details</b><br>
       <img src="https://github.com/user-attachments/assets/cbeec408-c562-4339-9a0b-bb3b4f4f7344" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+  </tr>
+</table>
+
+**Poker Vision AI**  
+*(Real-time card scanning & intelligent poker insights)*
+<table>
+  <tr>
+    <td align="center">
+      <b>Poker Dashboard</b><br>
+      <img src="../images/3.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>Scan Cards</b><br>
+      <img src="../images/4.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+    </td>
+    <td align="center">
+      <b>See Results</b><br>
+      <img src="../images/5.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
     </td>
   </tr>
 </table>
@@ -212,7 +230,6 @@ The final integration of **Game Theory Optimal (GTO)** logic.
     </td>
   </tr>
 </table>
-
 </div>
 
 
