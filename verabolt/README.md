@@ -175,8 +175,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 <table>
   <tr>
    <td align="center">
-  <b>Why Go Pro</b><br>
-  <img src="../images/2.jpeg" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+  <b>User Dashboard</b><br>
+  <img src="../images/2.jpeg" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
 </td>
     <td align="center">
       <b>Pro Workspace</b><br>
