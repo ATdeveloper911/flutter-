@@ -124,10 +124,10 @@ The final integration of **Game Theory Optimal (GTO)** logic.
       <b>User Dashboard</b><br>
       <img src="https://github.com/user-attachments/assets/056a1029-7618-4812-a349-ff967fe96ac2" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
     </td>
-    <td align="center">
-      <b>Why Go Pro</b><br>
-      <img src="https://github.com/user-attachments/assets/e832588f-508b-4345-b8ca-0216a4401da0" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
-    </td>
+   <td align="center">
+  <b>Why Go Pro</b><br>
+  <img src="../images/1.jpeg" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+</td>
     <td align="center">
       <b>Profile Settings</b><br>
       <img src="https://github.com/user-attachments/assets/a0e74041-13e9-4b7d-be5e-67c062acae0e" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
