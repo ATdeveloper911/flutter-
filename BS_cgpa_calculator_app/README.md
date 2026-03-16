@@ -45,8 +45,8 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 * 📊 **Target CGPA Calculator**
   Input current CGPA and desired target to see what GPA is required in future semesters.
 
-* 🧮 **Current & Target CGPA Comparison**
-  Enter past semester GPAs to calculate current CGPA and determine requirements for target CGPA.
+* 🧮 **Current & Final CGPA Calculator**
+  Choose Target Semester , Enter past semester CGPA and Target semester GPA to  calculate your Final CGPA for Target Semester.
 
 * 📁 **Calculation History**
   Auto-saving and exporting of GPA calculations and CGPA scenarios.
@@ -119,14 +119,6 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
-#### **8. Future Enhancements (Optional)**
-
-* User authentication and cloud sync.
-* Push notifications for academic reminders.
-* Data analytics for GPA trends.
-* University-specific policy presets.
-
----
 # Smart CGPA App  
 ### 📱 App Screenshots
 
