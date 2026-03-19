@@ -55,19 +55,19 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **The Solution**: A policy-compliant engine tailored to **COMSATS University** grading standards, allowing for precise GPA/CGPA forecasting and goal setting.
 * **Key Tech**: Dart Logic, Local Persistence.
 
-### 🏆 [Math Champ](https://www.google.com/search?q=./Math_champ_app) | Gamified Logic
+### 🏆 [Math Champ](https://github.com/ATdeveloper911/flutter-/tree/main/Math_champ_app) | Gamified Logic
 
 * **The Problem**: Educational tools often lack the high-fidelity feedback needed to engage young learners in logic building.
 * **The Solution**: A gamified math engine featuring **Interactive Audio-Visual Feedback** and progressive difficulty scaling to foster logical thinking.
 * **Key Tech**: Flutter Animation Controller, Audio Players.
 
-### 📝 [Task Manager & Tracker](https://www.google.com/search?q=./task_tracker_Supabase_project) | Persistent Accountability
+### 📝 [Task Manager & Tracker](https://github.com/ATdeveloper911/flutter-/tree/main/Task_Manager_app) | Persistent Accountability
 
 * **The Problem**: Generic task apps lack the "Handshake" between cloud persistence and local state for reliable tracking.
 * **The Solution**: A cloud-synced tracker utilizing **Supabase** for real-time task integrity and state management.
 * **Key Tech**: Flutter, Supabase Auth & Database.
 
-### 📰 [News App](https://www.google.com/search?q=./News_App) | Real-time Content Delivery
+### 📰 [News App](https://github.com/ATdeveloper911/flutter-/tree/main/News_App) | Real-time Content Delivery
 
 * **The Problem**: Information overload makes it difficult to consume clean, categorized, and real-time news data on the move.
 * **The Solution**: A streamlined content delivery interface optimized for **Low-Latency API Consumption** and clean typography.
