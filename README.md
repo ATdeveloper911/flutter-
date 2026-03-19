@@ -43,7 +43,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 ---
 
 
-### 📋 [Smart Complaint System](https://github.com/ATdeveloper911/flutter-/tree/main/Smart_Complaint_system(uninversity_based)/) | Enterprise Governance
+### 📋 [Smart Complaint System](https://github.com/ATdeveloper911/flutter-/tree/main/Smart_Complaint_system(uninversity_based)) | Enterprise Governance
 
 * **The Problem**: University complaints often disappear into email threads with zero accountability or follow-up.
 * **The Solution**: A role-based reporting engine with **Automated 24h Escalation** to the HOD and RLS-protected timelines for 100% transparency.
