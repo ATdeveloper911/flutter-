@@ -49,7 +49,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **The Solution**: A role-based reporting engine with **Automated 24h Escalation** to the HOD and RLS-protected timelines for 100% transparency.
 * **Key Tech**: Flutter, Supabase (RLS), Real-time Triggers.
 
-### 🎓 [BS CGPA Calculator](https://www.google.com/search?q=./BS_cgpa_calculator_app) | Academic Forecasting
+### 🎓 [BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-/tree/main/BS_cgpa_calculator_app/) | Academic Forecasting
 
 * **The Problem**: Students struggle to forecast academic standing due to complex, localized grading policies.
 * **The Solution**: A policy-compliant engine tailored to **COMSATS University** grading standards, allowing for precise GPA/CGPA forecasting and goal setting.
