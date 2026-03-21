@@ -84,7 +84,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 
 ## 📫 Connect with the Architect
 
-* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
 * **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
 * **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
 
