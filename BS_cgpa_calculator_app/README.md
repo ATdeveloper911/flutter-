@@ -138,11 +138,9 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 📫 Connect with the Architect
 
-Portfolio: asad-lime-six.vercel.app
-
-Contact: asadullah.devop@gmail.com
-
-Status: FLUTTER_SYSTEMS_OPERATIONAL 🟢
+* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
 
 
-
+---
