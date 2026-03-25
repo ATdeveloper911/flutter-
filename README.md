@@ -89,10 +89,10 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
 
 ---
----
+## 📫 Connect with the Architect
 
 <div align="center">
-  <p><strong>SYSTEMS_STATUS: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢</strong></p>
+  <p><strong>SYSTEMS_STATUS: FLUTTER_SYSTEMS_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
 
   <a href="https://asad-lime-six.vercel.app/">
