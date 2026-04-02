@@ -85,7 +85,9 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 - **Advanced Offline-First Architecture** with Isar + Riverpod
 - **On-device AI** (YOLOv8 + TFLite + ML Kit)
 - **Hardware-level Security** (AES-256 + Device Fingerprinting)
-
+- **Real-time Supabase** integration with Row-Level Security
+- **60 FPS smooth animations** & gamified UIs
+- Production-ready patterns used in **VeraBolt** (your flagship project)
 
 ---
 
