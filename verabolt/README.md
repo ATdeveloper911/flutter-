@@ -353,6 +353,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Isar-FF6F00?style=for-the-badge" alt="Isar" />
   
 
   
