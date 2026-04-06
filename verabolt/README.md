@@ -359,7 +359,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
   <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge" alt="ML Kit" />
   <img src="https://img.shields.io/badge/AES--256-FF0000?style=for-the-badge" alt="AES-256" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
   
 ---
