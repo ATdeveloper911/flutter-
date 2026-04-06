@@ -343,6 +343,10 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 
 ## ✨ VeraBolt Key Highlights
 
+- **100% Offline AI Poker Strategy Engine** — Game Theory Optimal (GTO) advice running completely on-device
+- **Advanced Computer Vision AI** — Custom YOLOv8 model trained on Kaggle for 100 epochs with real-time card detection
+
+
 ---
 ## 📊 Project Analytics
 
