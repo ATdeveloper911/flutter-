@@ -139,8 +139,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 <p align="center">
   <!-- BS CGPA Calculator Project Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="BS CGPA Calculator Project Stats" />
-</p>
-<p align="center">
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
 </p>
