@@ -133,6 +133,10 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 | About Screen | Contact Screen | Settings Screen | Policy Screen | Web Page |
 |--------------|----------------|------------------|----------------|----------|
 | <img src="https://github.com/user-attachments/assets/6959c2e6-5a3e-46df-8fa6-747d91a5e9fd" width="200"/> | <img src="https://github.com/user-attachments/assets/e8e27361-3019-4f7c-a0fd-e7d06bbd89f2" width="200"/> | <img src="https://github.com/user-attachments/assets/f87b323a-43a8-4121-b214-8774937cdb21" width="200"/> | <img src="https://github.com/user-attachments/assets/c9cec757-0d52-42fa-a035-3743bf14af12" width="200"/> | <img src="https://github.com/user-attachments/assets/983c44d3-54d9-42c9-87c8-8bbec2d76445" width="200"/> |
+----
+
+## ✨ BS CGPA Calculator Key Highlights
+
 
 ----
 ## 📊 Project Analytics
