@@ -137,6 +137,8 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ## ✨ BS CGPA Calculator Key Highlights
 
+- **University-Specific CGPA Calculator** — Designed specifically for BS programs with accurate GPA and CGPA calculations
+- **Smart Credit Hour System** — Automatically calculates semester GPA and cumulative CGPA based on course credits and grades
 
 ----
 ## 📊 Project Analytics
