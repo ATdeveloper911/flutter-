@@ -132,7 +132,7 @@ The current version does **not** include:
 - **Educational Impact** — Helps students improve math skills through gamification and immediate feedback
 - **Solid Foundation Project** — Demonstrates strong understanding of Flutter, animations, and user engagement patterns
 
-
+A delightful and effective educational app that transforms traditional math practice into an exciting learning adventure.
 ---
 ## 📊 Project Analytics
 <p align="center">
