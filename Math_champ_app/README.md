@@ -121,7 +121,9 @@ The current version does **not** include:
 
 
 ---
+## 📊 Project Analytics
 
+---
 ## 📫 Connect with the Architect
 
 <div align="center">
