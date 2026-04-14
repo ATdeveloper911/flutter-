@@ -130,6 +130,7 @@ The current version does **not** include:
 - **Clean Flutter Architecture** — Built with Riverpod state management and modern Flutter best practices
 - **Student-Centric Design** — Intuitive, colorful, and motivating UI tailored for young learners
 - **Educational Impact** — Helps students improve math skills through gamification and immediate feedback
+- **Solid Foundation Project** — Demonstrates strong understanding of Flutter, animations, and user engagement patterns
 
 
 ---
