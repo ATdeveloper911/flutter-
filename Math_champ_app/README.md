@@ -135,7 +135,9 @@ The current version does **not** include:
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Animations-FF6F00?style=for-the-badge" alt="Animations" />
-  
+  <img src="https://img.shields.io/badge/Gamification-00BFFF?style=for-the-badge" alt="Gamification" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
+</p>
 ---
 ## 📫 Connect with the Architect
 
