@@ -123,6 +123,8 @@ The current version does **not** include:
 
 ## ✨ Math Champ Key Highlights
 
+- **Gamified Math Learning App** — An engaging educational platform designed to make mathematics fun and interactive for students
+- **Interactive Problem Solving** — Multiple difficulty levels with real-time feedback and scoring system
 
 ---
 ## 📊 Project Analytics
