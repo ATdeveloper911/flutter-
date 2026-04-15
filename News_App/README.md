@@ -118,6 +118,10 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 - **Category-Based Browsing** — Easy navigation through Business, Technology, Sports, Health, Entertainment, and more
 - **Search Functionality** — Instant article search with smart filtering
 - **Rich Article Preview** — Beautiful card-based UI with images, titles, descriptions, and source information
+- **Smooth Performance** — Optimized with Provider state management and efficient API handling
+- **Offline Support** — Cached images and articles for better user experience
+- **Clean & Modern UI** — Following Material Design guidelines with excellent readability
+- **Educational Foundation Project** — Demonstrates strong API integration, state management, and UI/UX skills in Flutter
 
 ---
 ## 📊 Project Analytics
