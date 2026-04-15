@@ -123,7 +123,12 @@ This project is licensed under the MIT License – see the LICENSE file for deta
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge" alt="Provider" />
-  
+  <img src="https://img.shields.io/badge/HTTP-00BFFF?style=for-the-badge" alt="HTTP" />
+  <img src="https://img.shields.io/badge/News_API-FF6F00?style=for-the-badge" alt="News API" />
+  <img src="https://img.shields.io/badge/Cached_Network_Image-4285F4?style=for-the-badge" alt="Cached Network Image" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
+</p>
+
 
 ---
 ## 📫 Connect with the Architect
