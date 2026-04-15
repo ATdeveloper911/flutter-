@@ -111,6 +111,10 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 - Powered by Flutter, News API, and Lottie animations
 ---
 ## 📊 Project Analytics
+<p align="center">
+  <!-- News App Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="News App Project Stats" />
+</p>
 
 ---
 ## 📫 Connect with the Architect
