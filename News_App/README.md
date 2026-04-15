@@ -123,6 +123,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 - **Clean & Modern UI** — Following Material Design guidelines with excellent readability
 - **Educational Foundation Project** — Demonstrates strong API integration, state management, and UI/UX skills in Flutter
 
+A clean, fast, and user-friendly news application that showcases solid Flutter development fundamentals.
 ---
 ## 📊 Project Analytics
 <p align="center">
