@@ -336,6 +336,8 @@ You can watch a demo of the system in action via the link below:
 - **University-Based Automated Complaint Management System** — A complete digital solution for student grievance redressal
 - **24-Hour Automated Escalation** — Smart escalation engine that automatically forwards unresolved complaints to higher authorities
 - **Row-Level Security (RLS)** — Advanced data protection ensuring students can only view their own complaints
+- **Real-Time Status Tracking** — Live updates on complaint progress with push notifications
+- **Multi-Level Approval Workflow** — Department → Dean → Vice Chancellor level tracking
 
 ---
 ## 📊 Project Analytics
