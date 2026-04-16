@@ -329,6 +329,9 @@ You can watch a demo of the system in action via the link below:
 
 > 📁 *Hosted on Google Drive – ensure you're logged into your Google account to view.*
 
+---
+
+## ✨ Smart Complaint System Key Highlights
 
 ---
 ## 📊 Project Analytics
