@@ -348,7 +348,8 @@ You can watch a demo of the system in action via the link below:
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Row_Level_Security-00BFFF?style=for-the-badge" alt="Row Level Security" />
   <img src="https://img.shields.io/badge/Notifications-FF6F00?style=for-the-badge" alt="Notifications" />
-  
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
+</p>
 ---
 ## 📫 Connect with the Architect
 
