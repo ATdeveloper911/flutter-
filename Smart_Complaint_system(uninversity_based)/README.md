@@ -321,13 +321,20 @@ Functional screens available for Head of Department operations.
 ---
 
 
-## 🎥 Supported Demo Video
+---
 
-You can watch a demo of the system in action via the link below:
+## 🎥 Demo Video
 
-🔗 [Click here to view the video](https://drive.google.com/file/d/10dmUWM8dqSloW1vUBRlrKuNzs0nW95Rl/view?usp=sharing)
+<p align="center">
+  <a href="https://drive.google.com/file/d/10dmUWM8dqSloW1vUBRlrKuNzs0nW95Rl/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
 
-> 📁 *Hosted on Google Drive – ensure you're logged into your Google account to view.*
+> **🎬 Smart Complaint System in Action**  
+> Click the button above to watch the full demonstration video.
+
+> 📁 *Hosted on Google Drive — Make sure you're signed in to your Google account for access.*
 
 ---
 
