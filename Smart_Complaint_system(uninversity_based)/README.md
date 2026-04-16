@@ -344,9 +344,11 @@ You can watch a demo of the system in action via the link below:
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
- <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
- 
+  <img src="https://img.shields.io/badge/Row_Level_Security-00BFFF?style=for-the-badge" alt="Row Level Security" />
+  <img src="https://img.shields.io/badge/Notifications-FF6F00?style=for-the-badge" alt="Notifications" />
+  
 ---
 ## 📫 Connect with the Architect
 
