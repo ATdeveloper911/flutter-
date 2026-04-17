@@ -125,6 +125,10 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- Task Manager App Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Task Manager App Project Stats" />
+</p>
 
 ---
 ## 📫 Connect with the Architect
