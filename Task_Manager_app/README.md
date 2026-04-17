@@ -138,7 +138,8 @@ A feature-rich Flutter application designed to help users manage their tasks eff
   <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge" alt="Hive" />
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
-
+  <img src="https://img.shields.io/badge/Local_Notifications-4285F4?style=for-the-badge" alt="Notifications" />
+</p>
 ---
 ## 📫 Connect with the Architect
 
