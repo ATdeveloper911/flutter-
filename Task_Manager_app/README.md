@@ -131,6 +131,7 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 - **Smart Task Features** — Add, edit, delete, prioritize, and mark tasks as complete with due dates
 - **Local Notifications** — Reminders and deadline alerts to keep users on track
 - **Intuitive & Minimalist UI** — Beautiful, easy-to-use interface following Material Design principles
+- **Offline-First Design** — Fully functional without internet connection
 
 
 ---
