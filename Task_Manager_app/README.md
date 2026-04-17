@@ -125,6 +125,9 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 
 ## ✨ Task Manager App Key Highlights
 
+- **Feature-Rich Task Management Application** — Clean and efficient Flutter app for organizing daily tasks and productivity
+- **Powerful Local Storage** — Persistent data using Hive for fast and reliable offline access
+
 ---
 ## 📊 Project Analytics
 
