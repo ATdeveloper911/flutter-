@@ -132,7 +132,7 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 - **Local Notifications** — Reminders and deadline alerts to keep users on track
 - **Intuitive & Minimalist UI** — Beautiful, easy-to-use interface following Material Design principles
 - **Offline-First Design** — Fully functional without internet connection
-
+- **Solid Foundation Project** — Demonstrates strong understanding of local databases, state management, and user experience in Flutter
 
 ---
 ## 📊 Project Analytics
