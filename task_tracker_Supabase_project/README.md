@@ -192,6 +192,8 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 - **Real-Time Task Management Application** — Advanced Flutter app with live synchronization using Supabase
 - **Supabase Backend Integration** — Full utilization of Supabase Auth, PostgreSQL, and Realtime Database
 - **Row Level Security (RLS)** — Secure data access control at the database level
+- **Live Task Updates** — Real-time synchronization across multiple devices
+- **Advanced State Management** — Clean architecture using Riverpod for scalable and maintainable code
 
 ---
 ## 📊 Project Analytics
