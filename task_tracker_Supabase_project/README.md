@@ -190,6 +190,11 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- Task Tracker Supabase Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Task Tracker Supabase Project Stats" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
