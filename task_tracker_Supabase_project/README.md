@@ -198,6 +198,7 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 - **Authentication & Authorization** — Secure user login and personalized task management
 - **Production-Ready Patterns** — Demonstrates enterprise-level Flutter + Supabase integration
 
+A powerful real-time task tracking solution that showcases modern Flutter development with Supabase backend and strong security practices.
 ---
 ## 📊 Project Analytics
 
